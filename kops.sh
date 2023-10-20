@@ -1,6 +1,7 @@
 #vim .bashrc
 #export PATH=$PATH:/usr/local/bin/
 #source .bashrc
+#kops delete cluster --name rahams.k8s.local --yes
 
 
 #! /bin/bash
